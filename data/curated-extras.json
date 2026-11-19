@@ -629,6 +629,24 @@
     "lastVerified": "2026-11-10"
   },
   {
+    "id": "arxiv:2611.08977",
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "authors": ["William Xingxu Chen", "Alexi Gladstone", "Zeyu Michael Li", "Heng Ji", "Yilun Du"],
+    "year": 2026,
+    "published": "2026-11-06",
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2611.08977",
+    "codeUrl": "https://github.com/wwillchen/ebr",
+    "projectUrl": "https://energy-based-reasoners.github.io/",
+    "category": "latent",
+    "tags": ["EBR", "energy-based reasoning 能量驱动推理", "latent reasoning 潜空间推理", "looped models 循环模型", "adaptive stopping 自适应停止", "state-based explorative modeling (SXM)", "test-time scaling", "multi-solution reasoning"],
+    "tier": "context",
+    "essentialOrder": null,
+    "whyReadZh": "在潜在推理状态上学习能量函数，以能量梯度驱动递归更新、梯度范数决定停止、能量值筛选候选解，并通过状态空间探索训练覆盖多种有效解。适合作为研究 dLLM 潜空间迭代精炼、自适应计算与候选选择的背景阅读。实验聚焦数独、迷宫、N 皇后和图着色，向语言建模与更大规模推理任务的迁移仍是开放问题。",
+    "sourceCollections": ["curated-2026", "arxiv-primary"],
+    "lastVerified": "2026-11-18"
+  },
+  {
     "id": "arxiv:2508.13021",
     "title": "Empirical Analysis of Decoding Biases in Masked Diffusion Models",
     "authors": ["Pengcheng Huang", "Tianming Liu", "Zhenghao Liu", "Yukun Yan", "Shuo Wang", "Tong Xiao", "Zulong Chen", "Maosong Sun"],
